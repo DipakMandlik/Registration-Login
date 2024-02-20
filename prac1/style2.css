@@ -1,0 +1,25 @@
+.col-3{
+    background-color: #27b8bd;
+    height: 110vh;
+}
+
+.row .col-3 a{
+    text-decoration: none;
+    color: black;
+}
+
+.row .col-3 a:hover{
+    color: white;
+    background-color: black;
+}
+.row{
+    width: 100%;
+    height: auto;
+}
+.col-9{
+    background-color:  #06e1e9;
+    height: 10vh;
+}
+.col-9 .brand-name{
+    margin-left: 90px;
+}
